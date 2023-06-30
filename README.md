@@ -17,6 +17,9 @@ xBrute-GO is a improvement from [xBrute-v1](https://github.com/yon3zu/xbrute-v1)
 - Fast Tools
 - Build In GOLANG Latest Version (20.5)
 
+## _note_
+please put your own password list in lispass.txt and make sure your format weblist is http://site.com, use 100 thread to avoid goroutine error. thanks
+
 ## _license_
 
 GNU GENERAL PUBLIC LICENSE

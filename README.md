@@ -7,33 +7,15 @@
 
 ## _features_
 
-- File Manager
-  - Rename
-    - File
-    - Directory
-  - Delete
-    - File
-    - Directory
-  - Edit
-    - file
-  - File size
-  - File permission
-  - File owner/group
-  - File last modified
-- Upload File
-  - Current Directory
-  - Root Directory
-- Information
-  - User
-  - System
-  - Server IP
-  - Client IP
-  - Safe Mode
-  - PHP Version
-  - MYSQL | PKEXEC | WGET | CURL | PERL | PYTHON | SUDO
-- Create File
-- Create Directory
-- Terminal
+- Auto Get Username
+- 4 Type BruteForce Combination
+  - {USERNAME}+{PASSWORD)
+  - {USERNAME}+{USERNAME}{PASSWORD)
+  - {USERNAME}+{PASSWORD){USERNAME}
+  - {USERNAME}+{USERNAME}
+- Multithreading
+- Fast Tools
+- Build In GOLANG Latest Version (20.5)
 
 ## _license_
 

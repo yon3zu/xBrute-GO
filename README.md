@@ -12,7 +12,7 @@ xBrute-GO is a improvement from [xBrute-v1](https://github.com/yon3zu/xbrute-v1)
   - {USERNAME}+{PASSWORD)
   - {USERNAME}+{USERNAME}{PASSWORD)
   - {USERNAME}+{PASSWORD){USERNAME}
-  - {USERNAME}+{USERNAME}
+  - {USERNAME}+{USERNAME}{USERNAME}
 - Multithreading
 - Fast Tools
 - Build In GOLANG Latest Version (20.5)

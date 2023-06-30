@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/yon3zu/xBrute-GO/main/xbrutego.png)
 
-403WebShell is a improvement from LitespeedShellv2 i build this shell For educational purposes only, all kinds of illegal use is prohibited and developer are not responsible for any misuse or damage caused by this program.<br/>
+xBrute-GO is a improvement from [xBrute-v1](https://github.com/yon3zu/xbrute-v1) i build this shell For educational purposes only, all kinds of illegal use is prohibited and developer are not responsible for any misuse or damage caused by this program.<br/>
 ![GO](https://img.shields.io/badge/GO-20.5-bf616a?style=flat-square)
 ![licence](https://img.shields.io/badge/LICENE-GPL3.0-ebcb8b?style=flat-square)
 ![version](https://img.shields.io/badge/VERSION-1.2.1-a3be8c?style=flat-square)
@@ -25,12 +25,6 @@ Version 3, 29 June 2007
  Copyright (C) 2007 Free Software Foundation, Inc. [https://fsf.org/](https://fsf.org/)<br>
  Everyone is permitted to copy and distribute verbatim copies<br>
  of this license document, but changing it is not allowed.
-
-
-## _reference_
-
-- [WSO](https://github.com/mIcHyAmRaNe/wso-webshell)
-- [AnonSec Team](https://anonsec-team.org)
 
 ## _disclaimer_
 

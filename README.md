@@ -34,3 +34,6 @@ Version 3, 29 June 2007
 Any actions and or activities related to the material contained within this web shell is solely your responsibility<br/>
 The misuse of the information in this web shell can result in criminal charges brought against the persons in question<br/>
 The author will not be held responsible in the event any criminal charges be brought against any individuals misusing the information in this web shell to break the law.
+
+## _Copyright_
+No_Identity - Linuxploit.com &copy; 2023
